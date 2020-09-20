@@ -1,7 +1,7 @@
 ## Vinera Nazimova
-* email: vinera69@mail.ru
-* telegram: vinera nazimova
-* discord: vinera(@vinera)
+* **email**: vinera69@mail.ru
+* **telegram**: vinera nazimova
+* **discord**: vinera(@vinera)
 
 Front end developer with 2+ years of experience designing and building responsive web design.
 
